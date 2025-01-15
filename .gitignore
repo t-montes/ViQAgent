@@ -1,0 +1,10 @@
+*.env*
+*sample*
+*job*
+*.mp4
+*.log
+videos/
+results/
+data/
+tmp/
+__pycache__/
